@@ -3,17 +3,17 @@
 <br/>
 <table>
 <tr>
-<td align="center" width="140">
+<td align="center" width="160">
 <a href="https://odcru.com"><img src="./assets/icons/website.png" width="40" height="40" alt="Website"/></a><br/>
 <a href="https://odcru.com">odcru.com</a>
 </td>
-<td align="center" width="140">
+<td align="center" width="160">
 <a href="mailto:info@odcru.com"><img src="./assets/icons/email.png" width="40" height="40" alt="Email"/></a><br/>
 <a href="mailto:info@odcru.com">info@odcru.com</a>
 </td>
-<td align="center" width="140">
+<td align="center" width="160">
 <a href="tel:+9779768906678"><img src="./assets/icons/phone.png" width="40" height="40" alt="Phone"/></a><br/>
-<a href="tel:+9779768906678">+977 9768906678</a>
+<a href="tel:+9779768906678">+977&nbsp;9768906678</a>
 </td>
 </tr>
 </table>
